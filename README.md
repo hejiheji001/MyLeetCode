@@ -3,7 +3,7 @@
 ## Easy
 1. https://leetcode.com/problems/two-sum/description/
 
-###Worst:
+### Worst:
 ```JavaScript
 
 var twoSum = function(nums, target) {
@@ -27,7 +27,7 @@ var getAllIndexes = function(arr, val) {
 };
 
 ```
-###Better:
+### Better:
 ```JavaScript
 var twoSum = function(nums, target) {
     while(nums.length > 0){
