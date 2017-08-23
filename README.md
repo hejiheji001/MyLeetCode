@@ -1,7 +1,6 @@
 # MyLeetCode
 
-## Easy
-1. https://leetcode.com/problems/two-sum/description/
+## Easy https://leetcode.com/problems/two-sum/description/
 
 #### Worst:
 ```JavaScript
